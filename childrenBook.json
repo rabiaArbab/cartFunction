@@ -1,0 +1,112 @@
+{
+    "items":[
+        {
+            "sys":{ "id" : "1"},
+            "fields":{
+                "image":"updBooks/book2.jpg",
+                "title" : "KROAKER-THE-BULLFROG",
+                "Author" : "Monkey Pen",
+                "Price" : "$235"
+            }
+        },
+        {
+            "sys":{ "id" : "2"},
+            "fields":{
+                "image":"updBooks/book3.jpg",
+                "title" : "GINGER-THE-GIRAFFE",
+                "Author" : "Monkey Pen",
+                "Price" : "$480"
+            }
+        },
+        {
+            "sys":{ "id" : "3"},
+            "fields":{
+                "image":"updBooks/book4.jpg",
+                "title" : "DOING_MY_CHORES",
+                "Author" : "Monkey Pen",
+                "Price" : "$200"
+            }
+        },
+        {
+            "sys":{ "id" : "4"},
+            "fields":{
+                "image":"updBooks/book5.jpg",
+                "title" : "ABE-THE-SERVICE-DOG",
+                "Author" : "Monkey Pen",
+                "Price" : "$140"
+            }
+        },
+        {
+            "sys":{ "id" : "5"},
+            "fields":{
+                "image":"updBooks/book6.jpg",
+                "title" : "SUNNY-MEADOWS-WOODLAND-SCHOOL",
+                "Author" : "Monkey Pen",
+                "Price" : "$150"
+            }
+        },
+        {
+            "sys":{ "id" : "6"},
+            "fields":{
+                "image":"updBooks/book7.jpg",
+                "title" : "TOOTH-FAIRY",
+                "Author" : "Monkey Pen",
+                "Price" : "$110"
+            }
+        },
+        {
+            "sys":{ "id" : "7"},
+            "fields":{
+                "image":"updBooks/book8.jpg",
+                "title" : "HAMMY-THE-HAMSTER",
+                "Author" : "Monkey Pen",
+                "Price" : "$90"
+            }
+        },
+        {
+            "sys":{ "id" : "8"},
+            "fields":{
+                "image":"updBooks/book9.jpg",
+                "title" : "THE-CASE-OF-THE-MISSING-SMILE",
+                "Author" : "Monkey Pen",
+                "Price" : "$10"
+            }
+        },
+        {
+            "sys":{ "id" : "9"},
+            "fields":{
+                "image":"updBooks/book10.jpg",
+                "title" : "HOMEWORK-YUCK",
+                "Author" : "Monkey Pen", 
+            "   Price" : "$250"
+            }
+        },
+        {
+            "sys":{ "id" : "10"},
+            "fields":{
+                "image":"updBooks/book11.jpg",
+                "title" : "DYLAN-THE-DRAGON",
+                "Author" : "Monkey Pen",
+                "Price" : "$180"
+            }
+        },
+        {
+            "sys":{ "id" : "11"},
+            "fields":{
+                "image":"updBooks/book12.jpg",
+                "title" : "JESSIE-THE-RABBIT",
+                "Author" : "Monkey Pen",
+                "Price" : "$80"
+            }
+        },
+        {
+            "sys":{ "id" : "12"},
+            "fields":{
+                "image":"updBooks/book13.jpg",
+                "title" : "DO-YOU-WONDER-WHY-BUGS-ARE-GOOD",
+                "Author" : "Monkey Pen",
+                "Price" : "$20"
+            }
+        }
+    ]
+}
